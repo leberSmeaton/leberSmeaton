@@ -1,6 +1,10 @@
-### Hi there 👋
+### Hi there (👍 ͡❛ ͜ʖ ͡❛)👍
 
 I am a future junior dev. 
+- 🔭 I’m currently working on moving my weather app into React!
+- 🌱 I’m currently learning git + the command line so I can be smoooooth operator. 
+- 👯 I’m looking for a mentor in Melbourne, Australia. 
+- 🤔 I’m looking for knowledge and help on how to join and participate in hackerthons / meetups. 
 
 <!--
 **leberSmeaton/leberSmeaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
