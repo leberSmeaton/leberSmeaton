@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a future junior dev. 
+
 <!--
 **leberSmeaton/leberSmeaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
