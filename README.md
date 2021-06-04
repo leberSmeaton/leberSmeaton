@@ -1,10 +1,12 @@
 ### Hi there (👍 ͡❛ ͜ʖ ͡❛)👍
 
 I am a future junior dev. 
-- 🔭 I’m currently working on moving my weather app into React!
+- ⚡ I’ve just wound up Ruby and about to undertake Ruby on Rails.
+- 💃 I've finished building a Terminal App that allows you to input movie data. I'm hoping to work in some API and JSON as I transition into using Rails.
+- 🔭 I’ve previously moved my Thunder Weather App into React!
 - 🌱 I’m currently learning git + the command line so I can be smoooooth operator. 
 - 👯 I’m looking for a mentor in Melbourne, Australia. 
-- 🤔 I’m looking for knowledge and help on how to join and participate in hackerthons / meetups. 
+- 🤔 I’m looking for knowledge and help on how to best join and participate in hackerthons / meetups. 
 
 <!--
 **leberSmeaton/leberSmeaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
