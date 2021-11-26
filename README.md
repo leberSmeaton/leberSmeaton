@@ -26,7 +26,7 @@ Projects I've undertaken are,
 
 
 ✨ How can you reach me? ✨ 
-I am currently looking for both a coding job and a mentor in Melbourne, Australia. 
+I am currently looking for both a graduate developer position and a mentor in Melbourne, Australia. 
 Please reach out on my [Linked In.](https://www.linkedin.com/in/bella-leber-smeaton/)
 
 
