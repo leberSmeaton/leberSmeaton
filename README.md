@@ -24,7 +24,9 @@ Projects I've undertaken are,
 
 - 🤔 I’m looking for help with growing my JavaScript knowledge.
 
-- ✨ How can you reach me? ✨ 
-I am currently looking for both a coding job and a mentor in Melbourne, Australia. Please reach out on my [Linked In.](https://www.linkedin.com/in/bella-leber-smeaton/)
+
+✨ How can you reach me? ✨ 
+I am currently looking for both a coding job and a mentor in Melbourne, Australia. 
+Please reach out on my [Linked In.](https://www.linkedin.com/in/bella-leber-smeaton/)
 
 
