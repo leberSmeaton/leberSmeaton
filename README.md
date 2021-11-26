@@ -15,8 +15,8 @@ I am currently working in...
 Projects I've undertaken are,
 
 - 🍺 A vanilla JS website for people who don't drink, for Teetotallers executed through General Assembly's part-time web development course. [Repo](https://github.com/leberSmeaton/TTotal) + [TTotal Live Site](https://vigilant-tereshkova-e7ec07.netlify.app)
-- 🛒 A 2 sided Ruby-on-Rails marketplace web app for Arstist and Creatives when stuck in covid lockdown. [Repo here](https://github.com/leberSmeaton/lcm) | [Slow to load Live Site via Heroku](https://bellas-lcm.herokuapp.com)
-- 🍿 A Ruby terminal app. A movie judge Terminal App that allows the user to input movie data and rate Academy Award winning movies.
+- 🛒 A 2 sided Ruby-on-Rails marketplace web app for Arstist and Creatives when stuck in covid lockdown. Intregation with Stripe for payments. Plus a PostgreSQL database for development and production. [Repo here](https://github.com/leberSmeaton/lcm) + [Slow to load Live Site via Heroku](https://bellas-lcm.herokuapp.com)
+- 🍿 A Ruby terminal app. A movie judge Terminal App that allows the user to input movie data and rate Academy Award winning movies. [Repo](https://github.com/leberSmeaton/portfolioT1A3)
 - 🌤 A basic front end weather app(using live API weather data) built with vanilla HTML/CSS/JavaScript which I've since rebuilt in React. This project was built through SheCodes learning. [React Repo](https://github.com/leberSmeaton/weather-react) + [Live Site](https://elated-easley-a2038c.netlify.app)
 - 👯‍♀️ A [personal portfolio](https://bella-leber-smeaton-portfolio.netlify.app) built with HTML/CSS/JS, that I am currently updating and hoping to move into React. 
 
