@@ -22,7 +22,7 @@ Projects I've undertaken are,
 
 - 🌱 I’m continually learning Git + the command line so I can be smoooooth operator. I am also familiar with the GitHub Desktop GUI. 
 
-- 🤔 I’m looking for help with growing my JavaScript knowledge.
+- 🤔 I’m looking for help and insight into git workflows.
 
 
 ✨ How can you reach me? ✨ 
