@@ -10,7 +10,7 @@ Combining my diverse career history and communication style with creative tech s
 - I went down this full stack path to test my skillset and to discern which tech pathway to begin embark on.
 
 I am currently working in...
-- 🌱 a team, building a React app with an internal Rails API and a relational PostgreSQL database. We are currently in the planning stage. Features include User authentication & authorisation with Devise and JWT, API testing with RSPEC and front end React testing with Jest. We'll be utilising Amazon S3 buckets for image hosting and hosting backend on Heroku and our front end on Netlify. You can see our teams current repo I am acting as project manager for here... [PicnicVic](https://github.com/PicnicVic/Main_T3A2-A).
+- 🌱 a team, building a React app with an internal Rails API and a relational PostgreSQL database. We are currently in the planning stage. Features include User authentication & authorisation with Devise and JWT, API testing with RSPEC and front end React testing with Jest. We'll be utilising Amazon S3 buckets for image hosting and hosting backend on Heroku and our front end on Netlify. You can see our teams current repo I am acting as project manager for here... [PicnicVic](https://github.com/PicnicVic).
 
 Projects I've undertaken are,
 
