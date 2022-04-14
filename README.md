@@ -13,8 +13,8 @@ I recently completed...
 - 🎉 A one month internship with [Studio Alt](https://studioalt.com.au), a design and development agency based in Melbourne. I am currently focused on migrating the projects and challenges I built into a new single page portfolio piece.
 
 Fun front-end challenges I've recently finished,
-- 💄 [Alpha-H]() challenge of building a responsive mirror single page of their live site from a Figma design handoff. This was completed whilst at my internship with Studio Alt.
-- 🎂 Quick links to small fun component challenges like building a [cake]() in css. [Testimonials components](), An expanding [hamburger](), [nft card]() components, a css grid challenge remaking artwork [Tableau-I]().
+- 💄 [Alpha-H](https://github.com/leberSmeaton/alphah-1) challenge of building a responsive mirror single page of their live site from a Figma design handoff. This was completed whilst at my internship with Studio Alt.
+- 🎂 Quick links to small fun component challenges like building a [cake](https://github.com/leberSmeaton/cake) in css. [Testimonials components](https://github.com/leberSmeaton/testimonials), An expanding [hamburger](https://github.com/leberSmeaton/hamburger), [nft card](https://github.com/leberSmeaton/ntf-card-many) components, a css grid challenge remaking artwork [Tableau-I](https://github.com/leberSmeaton/tableau-grid).
 
 Projects I've undertaken are,
 - 🌱 Picnic Victoria App as part of a team. Building a React app with an internal Rails API and a relational PostgreSQL database. Features include User authentication & authorisation with Devise and JWT, API testing with RSPEC and front end React testing with Jest. Hosting backend on Heroku and front end on Netlify. You can see our teams current repo I am acting as project manager for here... [PicnicVic](https://github.com/PicnicVic).
