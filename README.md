@@ -10,7 +10,7 @@ Combining my diverse career history and communication style with creative tech s
 - I went down this full stack path to test my skillset and to discern which tech pathway to begin embark on.
 
 I recently completed...
-- A one month internship with [Studio Alt](https://studioalt.com.au), a design and development agency based in Melbourne. I am currently focused on migrating the projects and challenges I built whilst at Studio Alt into this Repo.
+- A one month internship with [Studio Alt](https://studioalt.com.au), a design and development agency based in Melbourne. I am currently focused on migrating the projects and challenges I built into a new single page portfolio piece.
 
 Projects I've undertaken are,
 - 🌱 Picnic Victoria App as part of a team. Building a React app with an internal Rails API and a relational PostgreSQL database. Features include User authentication & authorisation with Devise and JWT, API testing with RSPEC and front end React testing with Jest. Hosting backend on Heroku and front end on Netlify. You can see our teams current repo I am acting as project manager for here... [PicnicVic](https://github.com/PicnicVic).
