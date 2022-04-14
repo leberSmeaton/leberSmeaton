@@ -1,6 +1,6 @@
 ### Hi there (👍 ͡❛ ͜ʖ ͡❛)👍 I'm Bella.
 
-- I am a junior developer recently graduated from Coder Academy, January 2022.
+- I am a developer recently graduated from Coder Academy, January 2022.
 
 I consider myself a stakeholder management and engagement specialist with longterm project and business vision.
 Driven by meeting project targets and specifications, I take pride in turning around quality projects within budget and looks to apply these principles as a web developer.
